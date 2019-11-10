@@ -1,0 +1,2 @@
+# ArcoLinuxB-Cinnamon Calamares configuration
+
